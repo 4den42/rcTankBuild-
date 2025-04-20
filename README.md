@@ -16,3 +16,11 @@ Prototype 0 Goals: acquire base parts, assemble, create movement
 Prototype 1 Goals: improve functionality, add features, streamline design, prgrammable control
 
 Final Design Goals: well-rounded performance, enclosed wiring, remote control
+
+Sources:
+1) OpenAI. (2025). ChatGPT (April 20 version) [Large language model]. https://chat.openai.com/
+- Used for testing code and electrical calculations.
+- 
+2) https://www.raspberrypi.com/software/
+- RaspPi OS software
+- Forum troubleshooting
