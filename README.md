@@ -10,3 +10,9 @@ Team Members: Myriam Ulschak (Chemical Engineer), Maxwell Beachler (Mechanical E
 Smartsheet: 
 
 Presentation to the contractor: 
+
+Prototype 0 Goals: acquire base parts, assemble, create movement
+
+Prototype 1 Goals: improve functionality, add features, streamline design, prgrammable control
+
+Final Design Goals: well-rounded performance, enclosed wiring, remote control
